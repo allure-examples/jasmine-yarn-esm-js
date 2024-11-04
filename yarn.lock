@@ -9,8 +9,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "jasmine-yarn-esm-js@workspace:."
   dependencies:
-    allure-jasmine: "npm:^3.0.5"
-    allure-js-commons: "npm:^3.0.5"
+    allure-jasmine: "npm:^3.0.6"
+    allure-js-commons: "npm:^3.0.6"
     jasmine: "npm:^5.4.0"
   languageName: unknown
   linkType: soft
@@ -36,31 +36,31 @@ __metadata:
   languageName: node
   linkType: hard
 
-"allure-jasmine@npm:^3.0.5":
-  version: 3.0.5
-  resolution: "allure-jasmine@npm:3.0.5"
+"allure-jasmine@npm:^3.0.6":
+  version: 3.0.6
+  resolution: "allure-jasmine@npm:3.0.6"
   dependencies:
-    allure-js-commons: "npm:3.0.5"
+    allure-js-commons: "npm:3.0.6"
   peerDependencies:
     jasmine: ">=2.7.0"
   peerDependenciesMeta:
     jasmine:
       optional: true
-  checksum: 10c0/1ff727675f6ad4387662507f24d08af40b4d98d8298bf46c8f802ad132625c36a4cccfdb28b26b86a6a736bf83f4582200c5211ecb4fc41d4886a6ca12992132
+  checksum: 10c0/8c1952378e8915ef7c534973dbcb29f02065113e307c194935599cbf7081edadb89bda8f5d1402e6f6d81aafeac71bb67d7c3aba98e62bd31c2b9d4347543c1d
   languageName: node
   linkType: hard
 
-"allure-js-commons@npm:3.0.5, allure-js-commons@npm:^3.0.5":
-  version: 3.0.5
-  resolution: "allure-js-commons@npm:3.0.5"
+"allure-js-commons@npm:3.0.6, allure-js-commons@npm:^3.0.6":
+  version: 3.0.6
+  resolution: "allure-js-commons@npm:3.0.6"
   dependencies:
     md5: "npm:^2.3.0"
   peerDependencies:
-    allure-playwright: 3.0.5
+    allure-playwright: 3.0.6
   peerDependenciesMeta:
     allure-playwright:
       optional: true
-  checksum: 10c0/686d179329559e207f81ba4484468ebe77ecbdba4ccc46c4fcac4dcc5b7ef7b74b3b2ab64209cc10830cd5f81253ae22ec8d04215057fd9aee7105ecbefd4b61
+  checksum: 10c0/e55d752ea630821c4895064be725f4c9069d8f9e462e6f65190b9645f7f41a1a4d1b25ea093378828ec74f681cca990c017561317307b1cbdfe67400b98aa044
   languageName: node
   linkType: hard
 
